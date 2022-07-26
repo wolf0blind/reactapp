@@ -1,0 +1,22 @@
+$colors: (
+  "white": #ffffff,
+  "black": #222222,
+  "yellow": #f8bd49,
+  "transparent": transparent,
+  "gray-1": #858585,
+  "gray-2": #fafafa,
+);
+
+// Default Font Size
+$base-font-size: 16px;
+
+// Responsive Breakpoint
+$br-xxs: 375px;
+$br-xx: 425px;
+$br-xs: 480px;
+$br-mm: 512px;
+$br-sm: 576px;
+$br-md: 768px;
+$br-lg: 992px;
+$br-xl: 1140px;
+$br-xxl: 1200px;
